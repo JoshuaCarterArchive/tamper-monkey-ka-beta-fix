@@ -9,8 +9,8 @@
 // @exclude      http://*kissanime.ru/*&pfail=1
 // @grant        none
 // @homepageURL  https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix
-// @downloadURL  https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
 // @supportURL   https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix/issues
+// @downloadURL  https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
 // ==/UserScript==
 
 (function() {
