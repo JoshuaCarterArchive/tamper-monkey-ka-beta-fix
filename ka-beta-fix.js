@@ -3,7 +3,7 @@
 // @namespace    Khada
 // @version      0.5
 // @description  Auto add "&pfail=1" to KA vid urls ending in "&s=beta" or "&s=default".
-// @author       khadakuraki@gmail.com
+// @author       joshua.carter.dev@gmail.com
 // @match        http://*kissanime.ru/*&s=beta
 // @match        http://*kissanime.ru/*&s=default
 // @exclude      http://*kissanime.ru/*&pfail=1
