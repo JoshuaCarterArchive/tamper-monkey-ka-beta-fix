@@ -28,7 +28,7 @@ This means that the script should only run on kissanime.ru pages that load video
 
 When a matching url is detected, this script will add `&pfail=1` to the end of the url and automatically reload the page. For example:
 
-* Default URL: `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default`
+* Default url:&nbsp; `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default`
 * After script: `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default&pfail=1`
 
 ---
