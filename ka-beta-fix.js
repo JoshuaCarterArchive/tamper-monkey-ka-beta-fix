@@ -8,6 +8,7 @@
 // @match        http://*kissanime.ru/*&s=default
 // @exclude      http://*kissanime.ru/*&pfail=1
 // @grant        none
+// @run-at       document-start
 // @homepageURL  https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix
 // @supportURL   https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix/issues
 // @downloadURL  https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
