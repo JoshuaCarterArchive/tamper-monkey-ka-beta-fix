@@ -8,7 +8,7 @@
 // @match        http://*kissanime.ru/*&s=default
 // @exclude      http://*kissanime.ru/*&pfail=1
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
+// @downloadURL    https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
 // ==/UserScript==
 
 (function() {
