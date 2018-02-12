@@ -10,13 +10,12 @@ To install this script on your computer, follow these steps:
 * Install [Tamper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (a tool for editing and running user scripts in your browser).
 * Click on the Tamper Monkey icon (top right) and select **Dashboard**.
 * Click the **Utilities** tab.
-* Copy this url `https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js` (or open the `ka-beta-fix.js` on github, click **Raw** and copy url).
-* Paste the url into the **URL** field in Tamper Monkey Utilties page.
+* Copy the script url `https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js` (or open the `ka-beta-fix.js` on github, click **Raw** and copy the url from the browser).
+* Paste the url into the **URL** field on the Tamper Monkey Utilties page.
 * Click **Import** (a new page will show load showing you information about the script).
 * Click **Install**.
 
-The script will now be installed and should automatically run on relevant kissanime pages. Tamper Monkey will automatically download updates to the script; if you don't want this, either change your Tamper Monkey settings or uninstall my script, create your own script and
-copy/paste my script's content into yours, etc.
+The script will now be installed and should automatically run on relevant kissanime pages. Tamper Monkey will automatically download updates to the script; if you don't want this, either change your Tamper Monkey settings or uninstall my script, create your own script and copy/paste my script's content into yours, etc.
 
 ---
 ### How It Works
@@ -29,7 +28,7 @@ This means that the script should only run on kissanime.ru pages that load video
 
 When a matching url is detected, this script will add `&pfail=1` to the end of the url and automatically reload the page. For example:
 
-* Default url: `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default`
+* Default URL: `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default`
 * After script: `http://kissanime.ru/Anime/Mushishi/Episode-001?id=2920&s=default&pfail=1`
 
 ---
