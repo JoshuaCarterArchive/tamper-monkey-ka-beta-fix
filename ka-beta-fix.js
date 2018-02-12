@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kiss Anime Beta Server Fix
 // @namespace    Khada
-// @version      0.5
+// @version      0.6
 // @description  Auto add "&pfail=1" to KA vid urls ending in "&s=beta" or "&s=default".
 // @author       joshua.carter.dev@gmail.com
 // @match        http://*kissanime.ru/*&s=beta
@@ -17,6 +17,9 @@
 
 (function() {
     'use strict';
+    
+    //stop window loading
+    window.stop();
 
     //reload page with same url + "&pfail=1"
     window.location.replace(window.location.href + "&pfail=1");
