@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kiss Anime Beta Server Fix
 // @namespace    Khada
-// @version      0.4
+// @version      0.5
 // @description  Auto add "&pfail=1" to KA vid urls ending in "&s=beta" or "&s=default".
 // @author       khadakuraki@gmail.com
 // @match        http://*kissanime.ru/*&s=beta
@@ -10,7 +10,7 @@
 // @grant        none
 // @homepageURL  https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix
 // @downloadURL    https://raw.githubusercontent.com/JoshuaCarter/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
-// @supportURL   https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix
+// @supportURL   https://github.com/JoshuaCarter/tamper-monkey-ka-beta-fix/issues
 // ==/UserScript==
 
 (function() {
