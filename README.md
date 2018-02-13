@@ -15,7 +15,7 @@ To install this script on your computer, follow these steps:
 * Click **Import** (a new page will show load showing you information about the script).
 * Click **Install**.
 
-The script will now be installed and should automatically run on relevant kissanime pages. Tamper Monkey will automatically download updates to the script; if you don't want this, either change your Tamper Monkey settings or uninstall my script, create your own script and copy/paste my script's content into yours, etc.
+The script will now be installed and should automatically run on relevant kissanime pages. Tamper Monkey will automatically download updates to the script; if you don't want this, either change your Tamper Monkey settings or edit the script and remove the line starting with `// @downloadURL`.
 
 ---
 ### How It Works
