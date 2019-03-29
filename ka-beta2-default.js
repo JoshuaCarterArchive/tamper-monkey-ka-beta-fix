@@ -10,7 +10,7 @@
 // @icon         http://kissanime.ru/Content/images/favicon.ico
 // @homepageURL  https://github.com/JoshuaCarterArchive/tamper-monkey-ka-beta-fix
 // @supportURL   https://github.com/JoshuaCarterArchive/tamper-monkey-ka-beta-fix
-// @downloadURL  https://github.com/JoshuaCarterArchive/tamper-monkey-ka-beta-fix/master/ka-beta-fix.js
+// @downloadURL  https://github.com/JoshuaCarterArchive/tamper-monkey-ka-beta-fix/master/ka-beta2-default.js
 // ==/UserScript==
 
 console.log('Switching to beta2...');
